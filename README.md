@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 For questions or support, please contact:
 
-Project Lead: Muhammad Hamza Nawaz  
+Project Lead: [Muhammad Hamza Nawaz]  
 Email: iamhamzanawaz14@gmail.com 
 Project Link: [https://github.com/hamzanawazsangha/Plants-Disease-Detection-System](https://github.com/hamzanawazsangha/Plants-Disease-Detection-System)
 ---
