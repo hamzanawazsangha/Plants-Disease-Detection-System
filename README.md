@@ -122,6 +122,7 @@ For questions or support, please contact:
 
 Project Lead: Muhammad Hamza Nawaz  
 Email: iamhamzanawaz14@gmail.com 
+
 Project Link: [https://github.com/hamzanawazsangha/Plants-Disease-Detection-System](https://github.com/hamzanawazsangha/Plants-Disease-Detection-System)
 
 ---
