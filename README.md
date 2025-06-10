@@ -120,9 +120,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 For questions or support, please contact:
 
-Project Lead: [Muhammad Hamza Nawaz]  
+Project Lead: Muhammad Hamza Nawaz  
 Email: iamhamzanawaz14@gmail.com 
 Project Link: [https://github.com/hamzanawazsangha/Plants-Disease-Detection-System](https://github.com/hamzanawazsangha/Plants-Disease-Detection-System)
+
 ---
 
 **🌱 Happy Planting!** GreenGuard helps you keep your plants healthy and thriving with AI-powered disease detection. Try it today and give your plants the care they deserve!
